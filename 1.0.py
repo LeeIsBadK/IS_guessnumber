@@ -1,4 +1,11 @@
 #Base 2 number 1-7
+# Base 2 number 1-63 Guesser
+# Author : Kittiphat Leesombatwathana, Kongsak Raksapakdee
+# Instructor : Kannika Thada, Kanphakpim Udomwong, Sompit Phumchaung
+# From Manchasuksa School: Manchakhiri, Khonkaen Thailand.
+# This is independent study project (Grade 11)
+# Version 1.0 (1/2/2021)
+
 p = 0
 for i in range(6):
     k = 0

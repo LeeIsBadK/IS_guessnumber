@@ -1,4 +1,3 @@
-#Base 2 number 1-7
 # Base 2 number 1-63 Guesser
 # Author : Kittiphat Leesombatwathana, Kongsak Raksapakdee
 # Instructor : Kannika Thada, Kanphakpim Udomwong, Sompit Phumchaung
